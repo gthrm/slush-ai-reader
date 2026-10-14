@@ -1,0 +1,10 @@
+node_modules/
+.output/
+.wxt/
+test-results/
+playwright-report/
+.env*
+extension/
+slush-chrome-mv3.zip
+.DS_Store
+artifacts/
